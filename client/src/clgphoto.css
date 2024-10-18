@@ -1,0 +1,15 @@
+*{
+    align-items: center;
+}
+.mainbox{
+    
+    background-image: url("clgphoto.jpg");
+    background-size: cover;    
+}
+.login-container{
+    filter: none;
+    background-color: white;
+}
+#login-form{
+    margin-top: 30px;
+}
